@@ -1,4 +1,4 @@
-module github.com/rafaelmartins/usbfs
+module github.com/NullYing/usbfs
 
 go 1.15
 
