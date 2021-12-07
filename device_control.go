@@ -4,7 +4,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/rafaelmartins/usbfs/internal/endianness"
+	"github.com/NullYing/usbfs/internal/endianness"
 )
 
 type RequestType byte
